@@ -1,0 +1,35 @@
+{
+  "title_patterns": [],
+  "artist_patterns": [],
+  "corrections": {
+    "title": [
+      {
+        "original": null,
+        "corrected": "Jean Dubuffet - Rétrospective",
+        "timestamp": "2025-01-03T22:33:56.187786",
+        "surrounding_text": ""
+      },
+      {
+        "original": null,
+        "corrected": "Jean Dubuffet - Rétrospective",
+        "timestamp": "2025-01-03T22:50:01.348330",
+        "surrounding_text": ""
+      }
+    ],
+    "artist": [
+      {
+        "original": null,
+        "corrected": "Jean Dubuffet",
+        "timestamp": "2025-01-03T22:33:56.187798",
+        "surrounding_text": ""
+      },
+      {
+        "original": null,
+        "corrected": "Jean Dubuffet",
+        "timestamp": "2025-01-03T22:50:01.348364",
+        "surrounding_text": ""
+      }
+    ]
+  },
+  "context_rules": []
+}

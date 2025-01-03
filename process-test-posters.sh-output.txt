@@ -1,0 +1,508 @@
+Processing file: test_posters/art_contemporain.txt
+Analyse du fichier : test_posters/art_contemporain.txt
+----------------------------------------
+ART BASEL
+La foire internationale d'art
+
+11-16 juin 2024
+Messe Basel
+
+289 GALERIES
+33 PAYS
+4000 ARTISTES
+
+Art Unlimited
+Art Statements
+Art Feature
+Art Films
+
+Tickets online:
+www.artbasel.com
+
+Day Ticket: CHF 65.-
+Permanent Pass: CHF 120.-
+
+Contact:
+visit@artbasel.com
++41 58 206 28 28
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024",
+    "4000",
+    "41 58 206"
+  ],
+  "contact_info": {
+    "website": [
+      "www.artbasel.com"
+    ],
+    "email": [
+      "visit@artbasel.com"
+    ]
+  },
+  "prices": [
+    "CHF 65",
+    "CHF 120"
+  ],
+  "event_type": "exposition",
+  "locations": [],
+  "organizations": [
+    "BASEL",
+    "Art Feature",
+    "Art Films\n\nTickets online"
+  ],
+  "probable_title": "ART BASEL"
+}
+Processing file: test_posters/concert_classique.txt
+Analyse du fichier : test_posters/concert_classique.txt
+----------------------------------------
+ORCHESTRE DE LA SUISSE ROMANDE
+Direction: Jonathan Nott
+
+MAHLER
+Symphonie No 2 "Résurrection"
+
+Victoria Hall, Genève
+Jeudi 5 septembre 2024, 20h00
+
+Solistes:
+Rachel Harnisch, soprano
+Marie-Claude Chappuis, alto
+
+Billetterie:
+www.osr.ch
++41 22 807 00 00
+
+Places de CHF 20.- à CHF 120.-
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024",
+    "41 22 807"
+  ],
+  "contact_info": {
+    "website": [
+      "www.osr.ch"
+    ]
+  },
+  "prices": [
+    "CHF 20",
+    "CHF 120"
+  ],
+  "event_type": null,
+  "locations": [],
+  "organizations": [
+    "ORCHESTRE",
+    "ROMANDE",
+    "Direction",
+    "Genève\nJeudi 5"
+  ],
+  "probable_title": "ORCHESTRE DE LA SUISSE ROMANDE"
+}
+Processing file: test_posters/conference_architecture.txt
+Analyse du fichier : test_posters/conference_architecture.txt
+----------------------------------------
+HABITER DEMAIN
+Symposium d'Architecture
+
+ETH Zürich
+Hönggerberg Campus
+18-19 octobre 2024
+
+INTERVENANTS:
+Jacques Herzog
+Peter Zumthor
+Gion A. Caminada
+Anne Lacaton
+
+Langue: Allemand/Français
+Traduction simultanée
+
+Inscription obligatoire:
+www.arch.ethz.ch/symposium
+arch.symposium@ethz.ch
+
+Frais de participation:
+Professionnels: CHF 380.-
+Étudiants: CHF 80.-
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024"
+  ],
+  "contact_info": {
+    "website": [
+      "www.arch.ethz"
+    ],
+    "email": [
+      "arch.symposium@ethz.ch"
+    ]
+  },
+  "prices": [
+    "CHF 380",
+    "CHF 80"
+  ],
+  "event_type": "conférence",
+  "locations": [
+    "INTERVENANTS",
+    "Français"
+  ],
+  "organizations": [
+    "Hönggerberg Campus"
+  ],
+  "probable_title": "HABITER DEMAIN"
+}
+Processing file: test_posters/danse_contemporaine.txt
+Analyse du fichier : test_posters/danse_contemporaine.txt
+----------------------------------------
+STEPS
+Festival de Danse Contemporaine
+
+Présente:
+PIXEL
+Cie Käfig / Mourad Merzouki
+
+Théâtre de Beaulieu, Lausanne
+17 & 18 avril 2024, 20h30
+
+Une fusion spectaculaire
+entre danse hip-hop et arts numériques
+
+Réservations:
+www.steps.ch
++41 21 642 21 21
+
+Prix des places:
+CHF 25.- à CHF 85.-
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024",
+    "41 21 642"
+  ],
+  "contact_info": {
+    "website": [
+      "www.steps.ch"
+    ]
+  },
+  "prices": [
+    "CHF 25",
+    "CHF 85"
+  ],
+  "event_type": "concert",
+  "locations": [
+    "Théâtre de Beaulieu",
+    "Lausanne",
+    "Réservations"
+  ],
+  "organizations": [
+    "Cie Käfig"
+  ],
+  "probable_title": "STEPS"
+}
+Processing file: test_posters/design_biennale.txt
+Analyse du fichier : test_posters/design_biennale.txt
+----------------------------------------
+BIENNALE DU DESIGN SUISSE
+DESIGN NOW!
+
+Mudac Lausanne
+15.05 - 30.08.2024
+
+EXPOSANTS:
+Studio Big-Game
+Atelier Oï
+ECAL Alumni
+Norm Architects
+
+Conférences • Ateliers • Tables rondes
+Programme complet sur www.mudac.ch
+
+Entrée libre
+Contact: design@mudac.ch
++41 21 315 25 30
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "30.08.2024",
+    "41 21 315"
+  ],
+  "contact_info": {
+    "website": [
+      "www.mudac.ch"
+    ],
+    "email": [
+      "design@mudac.ch"
+    ]
+  },
+  "prices": [],
+  "event_type": "conférence",
+  "locations": [
+    "Studio Big"
+  ],
+  "organizations": [
+    "DESIGN NOW",
+    "EXPOSANTS",
+    "Norm Architects\n\n",
+    "Programme complet sur www.mudac.ch\n\nEntrée libre"
+  ],
+  "probable_title": "BIENNALE DU DESIGN SUISSE"
+}
+Processing file: test_posters/expo_photo.txt
+Analyse du fichier : test_posters/expo_photo.txt
+----------------------------------------
+REGARDS CROISÉS
+PHOTOGRAPHIE CONTEMPORAINE SUISSE
+
+Fotomuseum Winterthur
+23.04 - 15.08.2024
+
+Commissaire: Nadine Wietlisbach
+
+PHOTOGRAPHES:
+Karlheinz Weinberger
+Annelies Štrba
+Christian Schwager
+Cat Tuong Nguyen
+
+Vernissage: 22.04.2024, 18h30
+Visites guidées: chaque dimanche 11h
+
+info@fotomuseum.ch
++41 52 234 10 60
+www.fotomuseum.ch
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "15.08.2024",
+    "22.04.2024",
+    "41 52 234"
+  ],
+  "contact_info": {
+    "website": [
+      "www.fotomuseum.ch"
+    ],
+    "email": [
+      "info@fotomuseum.ch"
+    ]
+  },
+  "prices": [],
+  "event_type": "exposition",
+  "locations": [],
+  "organizations": [],
+  "probable_title": "REGARDS CROISÉS"
+}
+Processing file: test_posters/exposition_hodler.txt
+Analyse du fichier : test_posters/exposition_hodler.txt
+----------------------------------------
+FERDINAND HODLER
+MAÎTRE DU SYMBOLISME
+Une rétrospective majeure
+
+Kunsthaus Zürich
+Du 28 septembre au 15 décembre 2024
+
+Vernissage: Vendredi 27 septembre à 18h
+Visite guidée tous les mercredis à 14h30
+
+Prix d'entrée:
+Adultes: CHF 25.-
+AVS/AI: CHF 18.-
+Étudiants: CHF 12.-
+
+www.kunsthaus.ch
+info@kunsthaus.ch
++41 44 253 84 84
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024",
+    "41 44 253"
+  ],
+  "contact_info": {
+    "website": [
+      "www.kunsthaus.ch"
+    ],
+    "email": [
+      "info@kunsthaus.ch"
+    ]
+  },
+  "prices": [
+    "CHF 25",
+    "CHF 18",
+    "CHF 12"
+  ],
+  "event_type": "exposition",
+  "locations": [],
+  "organizations": [
+    "SYMBOLISME",
+    "AI",
+    "Étudiants"
+  ],
+  "probable_title": "FERDINAND HODLER"
+}
+Processing file: test_posters/festival_jazz.txt
+Analyse du fichier : test_posters/festival_jazz.txt
+----------------------------------------
+MONTREUX JAZZ FESTIVAL
+58e édition
+
+5-20 juillet 2024
+Montreux Music & Convention Centre
+
+TÊTES D'AFFICHE:
+Marcus Miller
+Herbie Hancock
+Diana Krall
+Robert Glasper
+
+Billets en vente:
+www.montreuxjazz.ch
+Ticketcorner +41 900 800 800
+
+Pass Festival: CHF 980.-
+Billets journaliers dès CHF 75.-
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024"
+  ],
+  "contact_info": {
+    "website": [
+      "www.montreuxjazz.ch"
+    ]
+  },
+  "prices": [
+    "CHF 980",
+    "CHF 75"
+  ],
+  "event_type": "concert",
+  "locations": [
+    "Ticketcorner",
+    "Billets"
+  ],
+  "organizations": [
+    "MONTREUX",
+    "Montreux Music & Convention Centre"
+  ],
+  "probable_title": "MONTREUX JAZZ FESTIVAL"
+}
+Processing file: test_posters/salon_livre.txt
+Analyse du fichier : test_posters/salon_livre.txt
+----------------------------------------
+34e SALON DU LIVRE DE GENÈVE
+Palexpo
+
+26-30 avril 2024
+10h00 - 19h00
+
+INVITÉ D'HONNEUR:
+Les éditions suisses
+
+200 auteurs
+450 éditeurs
+750 événements
+
+Dédicaces • Conférences
+Ateliers d'écriture • Lectures
+
+Entrée:
+1 jour: CHF 15.-
+5 jours: CHF 30.-
+Gratuit jusqu'à 18 ans
+
+www.salondulivre.ch
+info@palexpo.ch
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024"
+  ],
+  "contact_info": {
+    "website": [
+      "www.salondulivre.ch"
+    ],
+    "email": [
+      "info@palexpo.ch"
+    ]
+  },
+  "prices": [
+    "CHF 15",
+    "CHF 30"
+  ],
+  "event_type": "conférence",
+  "locations": [
+    "Palexpo"
+  ],
+  "organizations": [
+    "HONNEUR",
+    "Conférences\nAteliers d'écriture"
+  ],
+  "probable_title": "34e SALON DU LIVRE DE GENÈVE"
+}
+Processing file: test_posters/theatre_moliere.txt
+Analyse du fichier : test_posters/theatre_moliere.txt
+----------------------------------------
+THÉÂTRE DE CAROUGE
+présente
+
+LE MALADE IMAGINAIRE
+de Molière
+Mise en scène: Omar Porras
+
+du 12 au 31 mars 2024
+mardi-samedi 19h30
+dimanche 17h00
+
+Avec:
+Jean-Marc Rohrer
+Marie Fontannaz
+Philippe Mathey
+
+Réservations:
+www.theatredecarouge.ch
++41 22 343 43 43
+
+Tarifs: CHF 45.- / CHF 35.- / CHF 20.-
+----------------------------------------
+
+Résultats de l'analyse :
+{
+  "dates": [
+    "2024",
+    "41 22 343"
+  ],
+  "contact_info": {
+    "website": [
+      "www.theatredecarouge.ch"
+    ]
+  },
+  "prices": [
+    "CHF 45",
+    "CHF 35",
+    "CHF 20"
+  ],
+  "event_type": "concert",
+  "locations": [],
+  "organizations": [],
+  "probable_title": "THÉÂTRE DE CAROUGE"
+}
+metadata-swiss-posters %
